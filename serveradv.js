@@ -6,7 +6,7 @@ var servers = {};
 
 var bot = new Discord.Client();
 
-const TOKEN = "NTI1NjE2Nzc2OTIzNTc4MzY4.Dv5OXA.7eZtVCocMi6dNwj1mvSerkwbK0c";
+const TOKEN = "";
 
 const channelID = "440922444815925258"; 
 
